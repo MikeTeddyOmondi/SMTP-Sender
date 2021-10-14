@@ -25,7 +25,7 @@ Il est aussi déconseillé de dépasser l'envoie de 500 email/jours pour peine d
 8. Spécifiez le fichier en question (.txt) pour l'email html
 9. Laissez le tool se charger du reste, il enverras votre email html à tout les email présent sur le fichier txt spécifié 
 
-##/!\ Version bêta du tool (les bugs sont présents)
+## /!\ Version bêta du tool (les bugs sont présents)
 - Un email invalid entraine l'arrêt total du programme en cours d'execution
 - Une fois les emails envoyé, le programme s'arrête tout seul
 - Se tromper de port ou d'un seul caractère lors de la configuration du SMTP fait crasher le tool
