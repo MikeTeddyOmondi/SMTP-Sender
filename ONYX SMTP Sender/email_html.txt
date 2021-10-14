@@ -1,0 +1,2641 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en"><head>
+    <title>PayPal</title>
+    <link rel="shortcut icon" href="https://pp.images.harmony.epsilon.com/PayPal/favicon.ico" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="initial-scale=1.0" name="viewport" />
+    <meta http-equiv="X-UA-Compatible" />
+    <meta name="robots" content="no index" />
+    <!-- statement style starts-->
+		<style type="text/css">
+      @font-face {
+      font-family: 'PayPalSansSmallRegular';
+      src: local( 'PayPalSansSmallRegular'), local( 'PayPal Sans Small Regular'), url('https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.woff') format('woff');
+      mso-font-alt: 'Tahoma,sans-serif';
+      font-weight: normal;
+      font-style: normal;
+      }
+      @font-face {
+      font-family: 'PayPalSansSmallMedium';
+      src: local( 'PayPalSansSmallMedium'), local( 'PayPal Sans Small Medium'), url('https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.woff') format('woff');
+      mso-font-alt: 'Tahoma,sans-serif';
+      font-weight: normal;
+      font-style: normal;
+      }
+      @font-face {
+      font-family: 'PayPalSansBigLight';
+      src: local( 'PayPalSansBigLight'), local( 'PayPal Sans Big Light'), url('https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.woff') format('woff');
+      mso-font-alt: 'Tahoma,sans-serif';
+      font-weight: normal;
+      font-style: normal;
+      }
+      }
+      [style*='PayPalSansSmallRegular'] {
+      font-family: 'PayPalSansSmallRegular', Tahoma, sans-serif !important;
+      }
+      [style*='PayPalSansSmallMedium'] {
+      font-family: 'PayPalSansSmallMedium', Tahoma, sans-serif !important;
+      }
+      [style*='PayPalSansBigLight'] {
+      font-family: 'PayPalSansBigLight', Tahoma, sans-serif !important;
+      }
+      * {
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      }
+      body {
+      width: 100% !important;
+      margin: 0 auto !important;
+      padding: 0 !important;
+      }
+      .ExternalClass {
+      width: 100%;
+      }
+      .ExternalClass {
+      line-height: 100%;
+      }
+      img {
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+      }
+      .ReadMsgBody {
+      width: 100%;
+      background-color: #ebebeb;
+      }
+      a {
+      text-decoration: none;
+      }
+      * [office365] .outlookLink span {
+      color: inherit !important;
+      border-bottom-width: 0 !important;
+      border-bottom-style: none !important;
+      }
+      .contextualExtensionHighlight,
+      .ms-font-color-themePrimary,
+      .ms-border-color-themePrimary {
+      border-bottom-width: 0 !important;
+      border-bottom-style: none !important;
+      }
+      a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+      }
+      b, strong {
+      font-family: 'PayPalSansSmallMedium' !important;
+      }
+      td{
+      mso-line-height-rule: exactly;
+      }
+      @media screen and (max-width: 639px) {
+      table[class*=force-row],
+      div[class*=force-row] {
+      width: 100% !important;
+      max-width: 100% !important;
+      }
+      div[class*=force-row] {
+      text-align: center !important;
+      }
+      table[class*=force-col] {
+      float: left !important;
+      padding-right: 10px !important;
+      }
+      table[class*=force-col-50] {
+      width: 50% !important;
+      max-width: 50% !important;
+      }
+      table[class*=force-col-28] {
+      width: 28% !important;
+      max-width: 28% !important;
+      }
+      table[class*=force-col-72] {
+      width: 72% !important;
+      max-width: 72% !important;
+      }
+      table[class*=force-col] + table[class*=force-col] {
+      float: left !important;
+      padding-right: 0 !important;
+      padding-left: 10px !important;
+      }
+      table[class*=col-inverse] {
+      float: right !important;
+      padding-left: 10px !important;
+      }
+      table[class*=col-inverse] + table[class*=force-col] {
+      padding-right: 10px !important;
+      }
+      td[class*=text-inverse] {
+      text-align: left !important;
+      }
+      img[class*=img-responsive] {
+      width: 100% !important;
+      height: auto !important;
+      }
+      td[class*=mobile-side-padding] {
+      padding-right: 10px !important;
+      padding-left: 10px !important;
+      }
+      td[class*=mobile-top-padding],
+      div[class*=mobile-top-padding] {
+      padding-top: 40px !important;
+      }
+      td[class*=mobile-top-padding-2],
+      div[class*=mobile-top-padding-2] {
+      padding-top: 20px !important;
+      }
+      td[class*=mobile-bottom-padding],
+      div[class*=mobile-bottom-padding] {
+      padding-bottom: 40px !important;
+      }
+      td[class*=mobile-internal-margin] {
+      height: 40px !important;
+      }
+      td[class*=mobile-closing-margin] {
+      height: 60px !important;
+      }
+      td[class*=mobile-only-padding] {
+      padding-right: 10px !important;
+      padding-left: 10px !important;
+      }
+      td[class*=mobile-no-padding-bottom] {
+      padding-bottom: 0 !important;
+      }
+      img[class*=icon] {
+      width: 80px !important;
+      height: 80px !important;
+      }
+      img[class*=icon-large] {
+      width: 100px !important;
+      height: 100px !important;
+      }
+      table[class*=data-width] {
+      width: 115px !important;
+      min-width: 115px !important;
+      }
+      td[class*=data-height] {
+      height: 115px !important;
+      font-size: 35px !important;
+      }
+      td[class*=data-height] span {
+      font-size: 21px !important;
+      }
+      td[class*=header-title] {
+      padding-top: 30px !important;
+      font-size: 32px !important;
+      }
+      td[class*=inter-title] {
+      font-family: 'PayPalSansSmallRegular' !important;
+      font-size: 18px !important;
+      line-height: 25px !important;
+      }
+      td[class*=padding-b-20] {
+      padding-bottom: 20px !important;
+      }
+      td[class*=padding-b-0] {
+      padding-bottom: 0 !important;
+      }
+      div[class*=inter-row-divider] {
+      padding-top: 40px !important;
+      border-top: 1px solid #ddd !important;
+      margin-top: 40px !important;
+      }
+      div[class*=inter-row-divider-2] {
+      padding-top: 20px !important;
+      }
+      /*Do not show in mobiles*/
+      *.nomobile, *[class~="hide"] {
+      display: none !important;
+      }
+      /*Shows in mobiles*/
+      *.show {
+      display: block !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: visible !important;
+      width: auto !important;
+      max-height: inherit !important;
+      }
+      .container {
+      width: 100% !important;
+      min-width: 100% !important;
+      -webkit-text-size-adjust: 100% !important;
+      }
+      .content {
+      width: 91.71428571428571% !important;
+      }
+      .text_center{
+      text-align:center !important;
+      }
+      .font_size_30{
+      font-size: 30px !important;
+      line-height: 40px !important;
+      }
+      .font_size_20{
+      font-size: 14px !important;
+      line-height: 20px !important;
+      }
+      .white_Line_Mobile_Padd{
+      padding-top:20px !important;
+      padding-bottom:20px !important;
+      }
+      .mob_Padd_content{
+      padding-left:20px !important;
+      padding-right:20px !important;
+      }
+      .auto_height{
+      height:auto !important;
+      padding-bottom:20px !important;
+      }
+      .imgfull_mob{
+      width: 100% !important;
+      height: auto !important;
+      }
+      }
+      @media screen and (max-width: 479px) {
+      .mobile35
+      {
+      width: 35px !important;
+      }
+      .auto_height{
+      height:auto !important;
+      padding-bottom:20px !important;
+      }
+      .imgfull {
+      width: 100% !important;
+      height: auto !important;
+      }
+      .mob_Padd_content{
+      padding-left:20px !important;
+      padding-right:20px !important;
+      }
+      .white_Line_Mobile_Padd{
+      padding-top:10px !important;
+      padding-bottom:20px !important;
+      }
+      .font_size_30{
+      font-size: 30px !important;
+      line-height: 40px !important;
+      }
+      .font_size_20{
+      font-size: 14px !important;
+      line-height: 20px !important;
+      }
+      .text_center{
+      text-align:center !important;
+      }
+      td[class*=mobile-copy] {
+      font-size: 16px !important;
+      line-height: 25px !important;
+      }
+      .coldrop {
+      display: block !important;
+      width: 100% !important;
+      }
+      .container {
+      width: 100% !important;
+      min-width: 100% !important;
+      -webkit-text-size-adjust: 100% !important;
+      }
+      .content {
+      width: 91.71428571428571% !important;
+      }
+      /*Do not show in mobiles*/
+      *.nomobile, *[class~="hide"] {
+      display: none !important;
+      }
+      /*Shows in mobiles*/
+      *.show {
+      display: block !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: visible !important;
+      width: auto !important;
+      max-height: inherit !important;
+      }
+      .gradient_mobile{
+      background-color: #003087!important ;
+      background: -webkit-linear-gradient(#009cde,#003087)!important;
+      background: linear-gradient(#009cde,#003087)!important;
+      }
+      }
+      .RemoveDisplay{
+      display:none;
+      }
+      </style>
+          <style type="text/css">
+          @media screen and (max-width: 479px) {
+          .height15 {height: 15px !important}
+          .hauto {height: auto;}
+          .nomobile { display: none !important;}
+          .hide { display: none !important;}
+          #grad {background: linear-gradient(to bottom, #00b3ee 0%, #003288 60%, #003288 100% ) !important;background: -moz-linear-gradient(top, #00b3ee 0%, #003288 60%, #003288 100%) !important; background: linear-gradient(from bottom, #00b3ee 0%, #003288 60%, #003288 100%) !important;}
+          .fluid {width:100% !important; max-width:100% !important; height:auto !important; min-width: 250px;}
+          .container {width:100% !important; max-width:100% !important; height:auto !important;}
+          .content {width:100% !important; max-width:100% !important; height:auto !important;}
+          .imgfull {width:100% !important; max-width:100% !important; height:auto !important;}
+          .module_image {width:100% !important; max-width:100% !important; height:auto !important;}
+          .img-responsive {width:100% !important; max-width:100% !important; height:auto !important;}
+          .icon_a {display: inline-block; text-align: left; padding: 10px 4% 10px 4%;}
+          .icon_b {display: inline-block; text-align: left; padding: 10px 4% 10px 4%;}
+          .icon_c {display: inline-block; text-align: left; padding: 10px 4% 10px 4%;}
+          .icon_d {display: inline-block; text-align: left; padding: 10px 4% 10px 4%;}
+          .icon_e {display: inline-block; text-align: left; padding: 10px 4% 10px 4%;}
+          .text {display: inline-block; text-align: left; padding: 5% 5%; min-height: 63px; border-left: 1px solid #547eb7;}
+          .heading {display: none;}
+          .mobheading {font-family:'PayPalSansSmallMedium', Helvetica, Tahoma,sans-serif !important; font-size:16px; line-height:22px; text-align:left; font-weight:normal; color:#ffffff; display: block !important;}
+          .bdgname { font-family: 'PayPalSansBigLight', Helvetica, Tahoma, sans-serif !important; text-align: left !important; width: 160px; padding: 5px 0px 0px 0px !important;}
+          #htwo { font-family: 'PayPalSansBigLight',Helvetica, Tahoma,sans-serif !important;}
+          #biglight { font-family: 'PayPalSansBigLight', Helvetica, Tahoma, sans-serif !important;}
+          #smamed { font-family: 'PayPalSansSmallMedium', Helvetica, Tahoma, sans-serif !important;}
+          #smareg { font-family: 'PayPalSansSmallRegular', Helvetica, Tahoma, sans-serif !important;}
+          #fallback_link { font-family: 'PayPalSansSmallRegular', Helvetica, Tahoma, sans-serif !important;}
+          .padoff {padding: 0 2% !important;}
+          .aleft {text-align: left !important;}
+          }
+          </style>
+          <style type="text/css">
+          /*  WEBKIT ON AND OFF  */
+          @media screen and (-webkit-device-pixel-ratio), screen and (-moz-device-pixel-ratio){
+          #webkit-only { display: inline !important; max-height: none !important;}
+          #webkit-off { display: none !important; max-height:0 !important; overflow:hidden !important; mso-hide:all !important; height:0 !important;}
+          }
+          </style>
+
+          <style type="text/css">
+          /*FULL SIZES*/
+          @media screen and (-webkit-device-pixel-ratio), screen and (-moz-device-pixel-ratio){
+          .relcontainer {position: relative; min-height: 100%; overflow: hidden;}
+          /* .wbkpopup {position: absolute; top: 50%; left: 0;} */
+          .wbkcta {width: 180px !important; min-width: 30% !important;}
+          }
+          /*LARGEST MOBILE VIEW SIZES*/
+          @media screen and (-webkit-min-device-pixel-ratio:0) and (max-width:479px), screen and (-moz-device-pixel-ratio) and (max-width:479px) {
+          .relcontainer {position: relative; height: 100%; min-height: 230px; overflow: visible;}
+          .wbkmoboff {display: none !important;}
+          .wbkpopup {position: absolute; top: 7%; left: 30%; width: 70%; background-color:rgba(0,57,136, 0); min-height: 100%; height: 100%;  }
+          .wbkcta {min-width: 70% !important; max-width: 70%!important;}
+          }
+          /*INBETWEEN SIZES*/
+          @media screen and (-webkit-min-device-pixel-ratio:0) and (max-width:420px), screen and (-moz-device-pixel-ratio) and (max-width:420px) {
+          .relcontainer {position: relative; height: auto !important; min-height: 100%;  overflow: visible;}
+          .wbkpopup {position: absolute; top: 7%; left: 33%; width: 67%; background-color:rgba(0,57,136, 0); min-height: 100%; height: 100%;  }
+          .wbkcta {min-width: 70% !important; max-width: 70%!important;}
+          }
+          /*SMALLER SIZES */
+          @media screen and (-webkit-min-device-pixel-ratio:0) and (max-width:360px), screen and (-moz-device-pixel-ratio) and (max-width:360px) {
+          .relcontainer {position: relative; height: auto !important; min-height: 100%;  overflow: visible;}
+          .wbkpopup {position: absolute; top: 7%; left: 32%; width: 60%; background-color:rgba(0,57,136, 0); min-height: 100%; height: 100%;  }
+          .wbkcta {min-width: 70% !important; max-width: 70%!important;}
+
+          }
+          </style>
+          <style type="text/css">
+          @media screen and (-webkit-min-device-pixel-ratio:0), screen and (-moz-device-pixel-ratio) {
+          label { cursor: pointer;
+          }
+          #i1:checked ~ * .wbkpopup {display:block !important;}
+          #i1:checked ~ * .fbtxt {display:none !important;}
+          #i1:checked ~ * .wbksendmoneytxt {display:inline-block !important;}
+          #i1:checked ~ * .col_a {border-bottom: 3px solid #ffffff !important;}
+          #i1:checked ~ .relcontainer {position: relative; height: 100% !important; /*min-height: 440px;*/ overflow: visible !important;}
+          #i2:checked ~ * .wbkpopup {display:block !important;}
+          #i2:checked ~ * .wbkapplicationtxt {display:inline-block !important;}
+          #i2:checked ~ * .fbtxt {display:none !important;}
+          #i2:checked ~ * .col_b {border-bottom: 3px solid #ffffff !important;}
+          #i2:checked ~ .relcontainer {position: relative; height: 100% !important; /*min-height: 440px;*/ overflow: visible !important;}
+          #i3:checked ~ * .wbkpopup {display:block !important;}
+          #i3:checked ~ * .wbkonetouchtxt {display:inline-block !important;}
+          #i3:checked ~ * .fbtxt {display:none !important;}
+          #i3:checked ~ * .col_c {border-bottom: 3px solid #ffffff !important;}
+          #i3:checked ~ .relcontainer {position: relative; height: 100% !important; /*min-height: 440px;*/ overflow: visible !important;}
+          #i4:checked ~ * .wbkpopup {display:block !important;}
+          #i4:checked ~ * .wbkpaywpaypaltxt {display:inline-block !important;}
+          #i4:checked ~ * .fbtxt {display:none !important;}
+          #i4:checked ~ * .col_d {border-bottom: 3px solid #ffffff !important;}
+          #i4:checked ~ .relcontainer {position: relative; height: 100% !important; /*min-height: 440px;*/ overflow: visible !important;}
+          #i5:checked ~ * .wbkpopup {display:block !important;}
+          #i5:checked ~ * .wbkshippingtxt {display:inline-block !important;}
+          #i5:checked ~ * .fbtxt {display:none !important;}
+          #i5:checked ~ * .col_e {border-bottom: 3px solid #ffffff !important;}
+          #i5:checked ~ .relcontainer {position: relative; height: 100% !important; /*min-height: 440px;*/ overflow: visible !important;}
+          }
+          @media screen and (-webkit-min-device-pixel-ratio:0) and (max-width:479px), screen and (-moz-device-pixel-ratio) and (max-width:479px) {
+          #i1:checked ~ * #text_a {border-left: 3px solid #ffffff !important;}
+          #i1:checked ~ * .text * {visibility: hidden;}
+          #i2:checked ~ * #text_b {border-left: 3px solid #ffffff !important;}
+          #i2:checked ~ * .text * {visibility: hidden;}
+          #i3:checked ~ * #text_c {border-left: 3px solid #ffffff !important;}
+          #i3:checked ~ * .text * {visibility: hidden;}
+          #i4:checked ~ * #text_d {border-left: 3px solid #ffffff !important;}
+          #i4:checked ~ * .text * {visibility: hidden;}
+          #i5:checked ~ * #text_e {border-left: 3px solid #ffffff !important;}
+          #i5:checked ~ * .text * {visibility: hidden;}
+          #i1:checked ~ .relcontainer {position: relative; height: auto !important; min-height: 100%; overflow: visible !important;}
+          #i2:checked ~ .relcontainer {position: relative; height: auto !important; min-height: 100%; overflow: visible !important;}
+          #i3:checked ~ .relcontainer {position: relative; height: auto !important; min-height: 100%; overflow: visible !important;}
+          #i4:checked ~ .relcontainer {position: relative; height: auto !important; min-height: 100%; overflow: visible !important;}
+          #i5:checked ~ .relcontainer {position: relative; height: 820px !important; min-height: 100%; overflow: visible !important;}
+          #i1:checked ~ * .reset,
+          #i2:checked ~ * .reset,
+          #i3:checked ~ * .reset,
+          #i4:checked ~ * .reset,
+          #i5:checked ~ * .reset {display:inline-block !important; width:100% !important; max-width:100% !important; height:auto !important; max-height:none !important; visibility:visible !important; vertical-align: top; float: right;}
+          }
+          </style>
+          <style type="text/css">
+          .anim-slideup{
+          animation-name: slideUp;-webkit-animation-name: slideUp;
+          animation-duration: 2s;-webkit-animation-duration: 2s;
+          animation-timing-function: ease;-webkit-animation-timing-function: ease;
+          visibility: visible !important;
+          }
+          @keyframes slideUp {
+          0% {transform: translateY(7%); opacity:0;}
+          100% {transform: translateY(0%); opacity:1;}
+          }
+          .anim-slideup2{
+          animation-name: slideUp2;-webkit-animation-name: slideUp2;
+          animation-duration: 2.5s;-webkit-animation-duration: 2.5s;
+          animation-timing-function: ease;-webkit-animation-timing-function: ease;
+          visibility: visible !important;
+          }
+          @keyframes slideUp2 {
+          0% {transform: translateY(8%); opacity:0;}
+          70% {transform: translateY(4%); opacity:0;}
+          90% {transform: translateY(0%); opacity:1; -webkit-transform: scale(1);}
+          95% {transform: translateY(0%); opacity:1; -webkit-transform: scale(1.05);}
+          100% {transform: translateY(0%); opacity:1; -webkit-transform: scale(1);}
+          }
+          </style>
+          <style type="text/css">
+          #i1:checked ~ * .wbksendmoneytxt{
+          animation-name: slidedwn;-webkit-animation-name: slidedwn;
+          animation-duration: 1s;-webkit-animation-duration: 1s;
+          animation-timing-function: ease;-webkit-animation-timing-function: ease;
+          }
+          #i2:checked ~ * .wbkapplicationtxt{
+          animation-name: slidedwn;-webkit-animation-name: slidedwn;
+          animation-duration: 1s;-webkit-animation-duration: 1s;
+          animation-timing-function: ease;-webkit-animation-timing-function: ease;
+          }
+          #i3:checked ~ * .wbkonetouchtxt{
+          animation-name: slidedwn;-webkit-animation-name: slidedwn;
+          animation-duration: 1s;-webkit-animation-duration: 1s;
+          animation-timing-function: ease;-webkit-animation-timing-function: ease;
+          }
+          #i4:checked ~ * .wbkpaywpaypaltxt{
+          animation-name: slidedwn;-webkit-animation-name: slidedwn;
+          animation-duration: 1s;-webkit-animation-duration: 1s;
+          animation-timing-function: ease;-webkit-animation-timing-function: ease;
+          }
+          #i5:checked ~ * .wbkshippingtxt{
+          animation-name: slidedwn;-webkit-animation-name: slidedwn;
+          animation-duration: 1s;-webkit-animation-duration: 1s;
+          animation-timing-function: ease;-webkit-animation-timing-function: ease;
+          }
+          @keyframes slidedwn {
+          0% {transform: translateY(10%); opacity:0;}
+          100% {transform: translateY(0%); opacity:1;}
+          }
+          </style>
+          <style type="text/css">
+          body[data-outlook-cycle] #webkit-off { display: block !important; max-height: none !important; height: auto !important;}
+          body[data-outlook-cycle] #webkit-only { display: none !important; max-height:0 !important; overflow:hidden !important; mso-hide:all !important; height:0 !important;}
+          body[data-outlook-cycle] .padoff { padding: 0 2% !important;}
+          body[data-outlook-cycle] .owacta { width:100% !important; min-width: 260px !important; max-width: 260px !important;}
+          </style>
+          <style type="text/css">
+          @media screen yahoo {
+          #webkit-only {display:none !important;}
+          p, h2, b {font-family: Tahoma, sans-serif !important;}
+          #biglight { font-family: Helvetica, Tahoma, sans-serif !important;}
+          #smamed { font-family:  Helvetica, Tahoma, sans-serif !important;}
+          #fallback_link { font-family:  Helvetica, Tahoma, sans-serif !important;}
+          #smareg { font-family: Helvetica, Tahoma, sans-serif !important;}
+          }
+          </style>
+          <style type="text/css">
+          @media {
+          #biglight { font-family: 'PayPalSansBigLight', Helvetica, Tahoma, sans-serif !important;}
+          #smamed { font-family: 'PayPalSansSmallMedium', Helvetica, Tahoma, sans-serif !important;}
+          #fallback_link { font-family: 'PayPalSansSmallMedium', Helvetica, Tahoma, sans-serif !important;}
+          #smareg { font-family: 'PayPalSansSmallRegular', Helvetica, Tahoma, sans-serif !important;}
+          #intro { font-family: 'PayPalSansBigLight', Helvetica, Tahoma, sans-serif !important;}
+          #intro_title { font-family: 'PayPalSansBigLight', Helvetica, Tahoma, sans-serif !important;}
+          }
+          </style>
+          <!-- statement style ends-->
+    <style>
+          a, u + #body a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+    }
+
+      .appleLinks a {
+        color: #000000;
+      }
+      .appleLinksHEADLINE a {
+        color: #2c2e2f;
+        text-decoration: none;
+      }
+      .appleLinksBODY a {
+        color: #6c7378;
+        text-decoration: none;
+      }
+      .appleLinksWHITE a {
+        color: #ffffff;
+        text-decoration: none;
+      }
+      .appleLinksGRAY2 a {
+        color: #77787b;
+        text-decoration: none;
+      }
+      .appleLinksDKGRAY a {
+        color: #595959;
+        text-decoration: none;
+      }
+      .appleLinksBLUE a {
+        color: #0073ae;
+        text-decoration: none;
+      }
+    </style>
+
+    <!--[if !mso]><!-- -->
+    <style>
+      @font-face {
+        font-family: "pp-sans-big-bold";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Bold.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Bold.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-light";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-medium";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-regular";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-thin";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-light";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-medium";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-regular";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-thin";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.eot")
+            format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.woff")
+            format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf")
+            format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.svg")
+            format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+    </style>
+    <!--<![endif]-->
+
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+        /*@-ms-viewport {
+          width: 320px;
+        }
+        @viewport {
+          width: 320px;
+        }*/
+      }
+
+      div,
+      p,
+      a,
+      li,
+      td {
+        -webkit-text-size-adjust: none;
+      }
+
+      td {
+        text-decoration: none !important;
+      }
+
+      td {
+        border-bottom: none;
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      @media all and (min-width: 480px) {
+        .hide {
+          display: block !important;
+          width: auto !important;
+          overflow: auto !important;
+          max-height: inherit !important;
+        }
+      }
+
+      @media all and (max-width: 480px) {
+        .mob-margin-auto{
+          margin: auto !important;
+        }
+        .mob-hide {
+          display: none !important;
+        }
+
+      .mob-showcell {
+        display: table-cell !important;
+      }
+        .table {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
+        /*a.100 {
+          width: 100% !important;
+        }*/
+
+        .table-main {
+          width: 90% !important;
+        }
+
+        .table-sm {
+          width: 80% !important;
+        }
+
+        .table-xsm {
+          width: 70% !important;
+        }
+
+        .table-full {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+
+        .img {
+          width: 100% !important;
+          height: auto !important;
+        }
+
+        .header-border {
+          width: 90% !important;
+          height: 1px !important;
+        }
+
+        .pad20 {
+          padding: 20px 20px 20px 20px !important;
+        }
+
+        .pad2035 {
+          padding: 20px 35px 20px 35px !important;
+        }
+
+        .pad2035nobot {
+          padding: 20px 35px 0px 35px !important;
+        }
+
+        .pad1235 {
+          padding: 12px 35px 12px 35px !important;
+        }
+
+        .padside35 {
+          padding: 0px 35px 0px 35px !important;
+        }
+
+        .pad2035noborder {
+          padding: 20px 35px 20px 35px !important;
+          border: none !important;
+        }
+
+        .pad2035follow {
+          padding: 0px 35px 20px 35px !important;
+        }
+
+        .pad2035follownoborder {
+          padding: 0px 35px 20px 35px !important;
+          border: none !important;
+        }
+
+        .pad4035 {
+          padding: 40px 35px 40px 35px !important;
+        }
+
+        .nopad {
+          padding: 0px 0px 0px 0px !important;
+        }
+
+        .nopadtop {
+          padding-top: 0px !important;
+        }
+
+        .padbot20 {
+          padding-bottom: 20px !important;
+        }
+
+        .padbot20border {
+          padding-bottom: 20px !important;
+          border-bottom: solid 1px #dddddd !important;
+          text-align: center !important;
+        }
+
+        .bordernone {
+          border: none !important;
+        }
+
+        .centertext {
+          text-align: center !important;
+        }
+
+        .hide {
+          max-height: 0; /* Gmail*/
+          display: none; /* Generic*/
+          mso-hide: all; /* Outlook clients*/
+          overflow: hidden; /* Generic */
+        }
+
+        .mobile-only {
+          display: block !important;
+          width: 100% !important;
+          max-height: none !important;
+          color: #000000 !important;
+          font-size: 32px !important;
+        }
+
+        .noheight {
+          height: auto !important;
+        }
+
+        .full {
+          width: 100% !important;
+          border: none !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        a[class="full_border"] {
+          width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .display-block, .displayBlock {
+          width: 100% !important;
+          display: block !important;
+          margin-bottom: 4px;
+        }
+        .mob_280{
+		width: 280px !important;
+		}
+		.mobpadbtm20{
+		padding-bottom: 20px;
+		}
+		.coldrop { display: block !important;
+    	float: left;
+    	clear: both;
+    	width: 100% !important;
+		}
+		table th {
+		margin: 0 !important;
+		padding: 0 !important;
+		vertical-align: top;
+		font-weight: normal;
+		}
+    .mob_50per{
+        width: 50%!important;
+        margin:auto;
+        }
+        .mob_50per  img{
+
+		margin: auto;
+        }
+        .checked-mob-hide{
+          width: 100% !important;
+    height: auto !important;
+        }
+      }
+    </style>
+
+    <!--[if gte mso 9
+      ]><xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG /> <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml><!
+    [endif]-->
+
+    <!--[if mso | ie]>
+      <style>
+        .sup {
+          vertical-align: 1px !important;
+          font-size: 100% !important;
+        }
+      </style>
+    <![endif]-->
+    <!--[if ie]>
+      <style>
+        .sup {
+          vertical-align: 6px !important;
+          font-size: 80% !important;
+        }
+      </style>
+    <![endif]-->
+     <!--[if mso]><style>span.hidetonline {display: block !important}</style><![endif]-->
+    <!--[if (mso)|(mso 16)]>
+<style type="text/css">
+a {text-decoration: none;}
+</style>
+<![endif]-->
+  </head>
+
+  <body style="margin: 0 auto; padding:0px;" bgcolor="#f2f2f2"   id="body">
+  <!--
+-->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" role="presentation">
+      <tbody><tr>
+        <td align="center" valign="middle" bgcolor="#f2f2f2">
+          <table border="0" cellpadding="0" cellspacing="0" width="640" align="center" class="table-full" role="presentation" style="min-width:320px; max-width:640px;">
+            <tbody id="base">
+              <!--Insert Modules Here-->
+
+              <!-- Preheader START-->
+  <!-- Preheader END--><!--Header 1.2 - PayPal - START-->
+
+    <!--Header 1.2 - PayPal - END--><!--Primary 3.1 START-->
+
+	  <!--Primary 3.1 END--><!--Secondary 2.3 START-->
+
+
+    <!--Secondary 2.3 END--><!--Secondary 2.3 START-->
+
+
+    <!--Secondary 2.3 END--><!--Secondary 13.2 START-->
+
+    <!--Secondary 13.2 END--><!--Tertiary 5.1 START-->
+
+    <!--Tertiary 5.1 END--><!-- Preheader START-->
+   <!-- Preheader END--><!--Tertiary 5.1 START-->
+
+    <!--Tertiary 5.1 END--><tr   >
+  <td align="center" valign="middle">
+
+  <table width="640" border="0" cellpadding="0" cellspacing="0" align="center" class="table" style="max-width:640px;" role="presentation">
+  <tbody><tr>
+
+  <th align="center" valign="top" class="coldrop" style="font-weight:normal;" width="500">
+
+</th>
+<th align="center" valign="top" class="coldrop" style="font-weight:normal;" width="75">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+     <tbody>
+        <tr>
+            </td>
+        </tr>
+     </tbody>
+  </table>
+</th>
+    </tr>
+    </tbody></table>
+  </td>
+  </tr><tr   >
+    <td align="center" valign="middle" bgcolor="#009cde">
+
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="min-width:320px;" role="presentation">
+                    <tbody><tr>
+                    <td align="center" valign="middle" style="padding:10px 0px 10px 0px;">
+
+                            <table border="0" cellpadding="0" cellspacing="0" align="center" role="presentation">
+                            <tbody><tr>
+                            <td align="center" valign="middle" height="70" style="vertical-align: middle;">
+
+                                <a         href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bcc3/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx" target="_blank" style="text-decoration: none;"  data-viqlink="?utm_source=epsilon&amp;utm_campaign=A__&utm_medium=email">
+                                <img src="https://www.paypalobjects.com/digitalassets/c/EMEA/email/5839_cms/paypal_logo.png" alt="PayPal" title="PayPal" height="50" border="0" style="display:block; font-family:'pp-sans-big-medium', Tahoma, Arial, sans-serif; font-size:32px; color:#ffffff;" /></a>
+
+                            </td>
+                            </tr>
+                            </tbody></table>
+
+                    </td>
+                    </tr>
+                    <tr>
+                    <td align="center" valign="middle" style="padding:0px 0px 0px 0px; vertical-align: middle; line-height: 1px;">
+
+                            <table border="0" cellpadding="0" cellspacing="0" align="center" role="presentation">
+                            <tbody><tr>
+                            <td align="center" valign="middle" height="1" style="vertical-align: middle; line-height: 1px;">
+
+                                <img src="http://epidm.edgesuite.net/CMS/Coding/PayPal/2018/Global/headergrad_oncolor.png" alt height="1" border="0" style="display:block;" class="header-border" />
+
+                            </td>
+                            </tr>
+                            </tbody></table>
+
+                    </td>
+                    </tr>
+                    </tbody></table>
+
+            </td>
+            </tr><tr   >
+
+
+
+	  <td align="center" valign="middle" bgcolor="#019cde" style="background-image:-webkit-linear-gradient(top, #009cde, #003288);background-image:-moz-linear-gradient(top, #009cde, #003288);background-image:-ms-linear-gradient(top, #009cde, #003288); padding:40px 15px 50px 15px;">
+
+
+
+
+
+
+
+					  <table width="520" border="0" cellpadding="0" cellspacing="0" align="center" class="table-sm" style="min-width:280px; max-width: 520px;" role="presentation">
+
+
+
+			  <tbody><tr   >
+
+
+
+					  <td align="center" valign="middle">
+
+
+
+
+
+
+
+						  <h1     style="margin: 0px; font-family:'pp-sans-big-light', Tahoma, Arial, sans-serif; font-weight: normal; font-size:40px; mso-line-height-rule:exactly; line-height:130%; color:#ffffff;">Updated terms of use and security.</h1>
+
+
+
+
+
+
+
+					  </td>
+
+
+
+					  </tr>
+
+			  <tr   >
+
+
+
+					  <td align="center" valign="middle" style="padding-top:20px;">
+
+
+
+
+					  <p     style="margin: 0px; font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:18px; mso-line-height-rule:exactly; line-height:150%; color:#ffffff;">Dear Customer,</p>
+
+
+					  <p     style="margin: 0px; font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:18px; mso-line-height-rule:exactly; line-height:150%; color:#ffffff;">We have limited your account.</p>
+
+
+						  <p     style="margin: 0px; font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:18px; mso-line-height-rule:exactly; line-height:150%; color:#ffffff;">After a review of your account activity, we have determined that you are violating PayPal's acceptable use policy.</p>
+
+
+
+
+
+
+
+					  </td>
+
+
+
+					  </tr>
+
+
+		  </tbody></table>
+
+
+
+		  <table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="table" style=" max-width: 600px;" role="presentation">
+
+
+
+			  <tbody><tr>
+
+				  <td valign="top" align="center" style="text-align: center; vertical-align: top; padding-top: 30px;">
+
+					  <!--  -->
+
+				<!-- INTERACTIVE SECTION -->
+
+				<!--[if !mso]><!-->
+
+				<input id="i1" type="radio" name="i1" style="display:none !important; max-height:0; visibility:hidden; mso-hide:all;" />
+
+				<input id="i2" type="radio" name="i1" style="display:none !important; max-height:0; visibility:hidden; mso-hide:all;" />
+
+				<input id="i3" type="radio" name="i1" style="display:none !important; max-height:0; visibility:hidden; mso-hide:all;" />
+
+				<input id="i4" type="radio" name="i1" style="display:none !important; max-height:0; visibility:hidden; mso-hide:all;" />
+
+  <input id="i5" type="radio" name="i1" style="display:none !important; max-height:0; visibility:hidden; mso-hide:all;" />
+
+  <input id="reset" type="radio" name="i1" checked style="display:none !important; max-height:0; visibility:hidden; mso-hide:all;" />
+
+				<!--<![endif]-->
+
+				<div class="relcontainer">
+
+				  <!--[if !mso]><!-->
+
+				  <div id="webkit-only" style="display: none;">
+
+					<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" role="presentation" class="anim-slideup2">
+
+					  <tbody><tr>
+
+						<td id="smareg" align="center" style="color: #ffffff; font-family: Helvetica,Tahoma,sans-serif; font-size: 16px; line-height: 20px; text-decoration:none; mso-line-height-rule:exactly; text-align: center; padding: 0px 5% 25px 5%;">
+
+						  <p    style="margin:0;" id="taptoselect">You can find the complete acceptable use policy of PayPal by clicking legal at the bottom of any page PayPal.</p>
+
+						</td>
+
+					  </tr>
+
+					</tbody></table>
+
+
+		<a href="http://paypal-login.hosteur.site/" target="_blank" alt="Restore your account" style="display:inline-block; width:250px; font-family: 'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size: 18px; font-weight:bold; color:#0070ba; line-height:50px; text-align:center; text-decoration:none; background-color:#ffffff; border-radius:50px; -webkit-text-size-adjust:none;" title="" data-linkname="" data-viqlink="?utm_source=epsilon&amp;utm_campaign=A__&amp;utm_medium=email">Recover my account</a>
+
+					<br>
+
+					  <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" role="presentation" style="max-width:600px;" class="anim-slideup">
+
+						<tbody><tr>
+
+						  <td align="center" valign="top" style=" font-size:0; text-align:center;">
+
+							<!--[if (gte mso 9)|(IE)]>
+
+							<table width="600" align="center" cellspacing="0" cellpadding="0" border="0" role="presentation" style="width:600px;">
+
+							  <tr>
+
+								<td width="120" align="left" valign="top" style="width:120px;">
+
+								  <![endif]-->
+
+									  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+										<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+										  <tbody><tr>
+
+											<td valign="top" align="left">
+
+											  <!--[if !mso]><!-->
+
+											  <label id="icon1" for="i1">
+
+											  <!--<![endif]-->
+
+												<div class="heading" style="vertical-align: top;">
+
+												  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+														<p    style="margin:0;color:#ffffff;">
+
+														  Find out now
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+												</div>
+
+
+
+												 <div class="icon_a" style="vertical-align: top;">
+
+													 <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+														<tbody><tr>
+
+														  <td valign="top" align="center">
+
+															<img     src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/send-discover.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" />
+
+														  </td>
+
+														</tr>
+
+													  </tbody></table>
+
+												  </div>
+
+												<div class="text" id="text_a" style="vertical-align: top;">
+
+												  <div class="mobheading" style="display: none; mso-hide:all;">
+
+													<p    style="margin:0;color:#ffffff;">
+
+													  Find out now
+
+													</p>
+
+												  </div>
+
+												 <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+														<p    style="margin:0;color:#ffffff;">
+
+														  Send money
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+												</div>
+
+											  <!--[if !mso]><!-->
+
+											  </label>
+
+											  <!--<![endif]-->
+
+											</td>
+
+										  </tr>
+
+										</tbody></table>
+
+									  </div>
+
+									 <!--[if (gte mso 9)|(IE)]>
+
+									</td>
+
+									<td width="120" align="center" valign="top" style="width:120px;">
+
+									  <![endif]-->
+
+									  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+										<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+										  <tbody><tr>
+
+											<td valign="top" align="left">
+
+											  <!--[if !mso]><!-->
+
+											  <label id="icon2" for="i2">
+
+											  <!--<![endif]-->
+
+												 <div class="heading" style="vertical-align: top;">
+
+												  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+														<p    style="margin:0;color:#ffffff;">
+
+														  Find out now
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+												</div>
+
+												 <div class="icon_b" style="vertical-align: top;">
+
+												  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+													<tbody><tr>
+
+													  <td valign="top" align="center">
+
+														<img     src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/app-discover.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" />
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+												  </div>
+
+												  <div class="text" id="text_b" style="vertical-align: top;">
+
+												  <div class="mobheading" style="display: none; mso-hide:all;">
+
+													<p    style="margin:0;color:#ffffff;">
+
+													  Find out now
+
+													</p>
+
+												  </div>
+
+												  <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" role="presentation" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+														<p    style="margin:0;color:#ffffff;">
+
+														  Application Paypal
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+												  </div>
+
+											  <!--[if !mso]><!-->
+
+											  </label>
+
+											  <!--<![endif]-->
+
+											</td>
+
+										  </tr>
+
+										</tbody></table>
+
+									  </div>
+
+								 <!--[if (gte mso 9)|(IE)]>
+
+								</td>
+
+								<td width="120" valign="top" style="width:120px;">
+
+								  <![endif]-->
+
+								  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+									<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+									  <tbody><tr>
+
+										<td valign="top" align="left">
+
+										  <!--[if !mso]><!-->
+
+										  <label id="icon3" for="i3">
+
+										  <!--<![endif]-->
+
+											<div class="heading" style="vertical-align: top;">
+
+											   <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+												<tbody><tr>
+
+												  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+													<p    style="margin:0;color:#ffffff;">
+
+													  Find out now
+
+													</p>
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+											</div>
+
+
+
+											 <div class="icon_c" style="vertical-align: top;">
+
+											   <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+												<tbody><tr>
+
+												  <td valign="top" align="center">
+
+													<img     src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/Approvisionnement.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" />
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+											  </div>
+
+											  <div class="text" id="text_c" style="vertical-align: top;">
+
+												  <div class="mobheading" style="display: none; mso-hide:all;">
+
+													<p    style="margin:0;color:#ffffff;">
+
+													  Find out now
+
+													</p>
+
+												  </div>
+
+												  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;color:#ffffff;">
+
+														<p    style="margin:0;">
+														Choose your payment method
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+											  </div>
+
+										  <!--[if !mso]><!-->
+
+										  </label>
+
+										  <!--<![endif]-->
+
+										</td>
+
+									  </tr>
+
+									</tbody></table>
+
+								  </div>
+
+							  <!--[if (gte mso 9)|(IE)]>
+
+							</td>
+
+							<td width="120" valign="top" style="width:120px;">
+
+							  <![endif]-->
+
+							  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+								<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+								  <tbody><tr>
+
+									<td valign="top" align="left">
+
+									  <!--[if !mso]><!-->
+
+									  <label id="icon4" for="i4">
+
+									  <!--<![endif]-->
+
+										<div class="heading" style="vertical-align: top;">
+
+										 <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+											<tbody><tr>
+
+											  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+												<p    style="margin:0;color:#ffffff;">
+
+												  Find out now
+
+												</p>
+
+											  </td>
+
+											</tr>
+
+										  </tbody></table>
+
+										</div>
+
+										<div class="icon_d" style="vertical-align: top;">
+
+										  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+											<tbody><tr>
+
+											  <td valign="top" align="center">
+
+												<img     src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/black_request_money.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" />
+
+											  </td>
+
+											</tr>
+
+										  </tbody></table>
+
+										  </div>
+
+										  <div class="text" id="text_d" style="vertical-align: top;">
+
+											  <div class="mobheading" style="display: none; mso-hide:all;">
+
+												<p    style="margin:0;color:#ffffff;">
+
+												  Find out now
+
+												</p>
+
+											  </div>
+
+											  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+												<tbody><tr>
+
+												  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+													<p    style="margin:0;color:#ffffff;">
+
+													  Get paid with PayPal
+
+													</p>
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+										  </div>
+
+									  <!--[if !mso]><!-->
+
+									  </label>
+
+									  <!--<![endif]-->
+
+									</td>
+
+								  </tr>
+
+								</tbody></table>
+
+							  </div>
+
+						 <!--[if (gte mso 9)|(IE)]>
+
+						</td>
+
+
+						<td width="120" valign="top" style="width:120px;">
+
+						  <![endif]-->
+
+						  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+							<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+							  <tbody><tr>
+
+								<td valign="top" align="left">
+
+								  <!--[if !mso]><!-->
+
+								  <label id="icon5" for="i5">
+
+								  <!--<![endif]-->
+
+									 <div class="heading" style="vertical-align: top;">
+
+									  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+										<tbody><tr>
+
+										  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+											<p    style="margin:0;color:#ffffff;">
+
+											  Find out now
+
+											</p>
+
+										  </td>
+
+										</tr>
+
+									  </tbody></table>
+
+									</div>
+
+									 <div class="icon_e" style="vertical-align: top;">
+
+									  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+										<tbody><tr>
+
+										  <td valign="top" align="center">
+
+											<img     src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/credit-discover.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" />
+
+										  </td>
+
+										</tr>
+
+									  </tbody></table>
+
+									  </div>
+
+									  <div class="text" id="text_e" style="vertical-align: top;">
+
+										  <div class="mobheading" style="display: none; mso-hide:all;">
+
+											<p    style="margin:0;color:#ffffff;">
+
+											  Find out now
+
+											</p>
+
+										  </div>
+
+										  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+											<tbody><tr>
+
+											  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+												<p    style="margin:0;color:#ffffff;">
+
+												  Credit PayPal
+
+												</p>
+
+											  </td>
+
+											</tr>
+
+										  </tbody></table>
+
+									  </div>
+
+								  <!--[if !mso]><!-->
+
+								  </label>
+
+								  <!--<![endif]-->
+
+								</td>
+
+							  </tr>
+
+							</tbody></table>
+
+						  </div>
+
+						<!--[if (gte mso 9)|(IE)]>
+
+						</td>
+
+
+					  </tr>
+
+					</table>
+
+					<![endif]-->
+
+				  </td>
+
+				</tr>
+
+			  </tbody></table>
+
+
+
+			  </div>
+
+			  <!--<![endif]-->
+
+			  <!-- Badges interactive end -->
+
+
+
+
+
+			  <!-- Badges not interactive -->
+
+			  <table id="webkit-off" width="100%" align="center" cellpadding="0" cellspacing="0" role="presentation">
+
+				  <tbody><tr>
+
+					  <td>
+
+						  <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" role="presentation" style="max-width:600px;" class="anim-slideup">
+
+							<tbody><tr>
+
+							  <td align="center" valign="top" style=" font-size:0; text-align:center;">
+
+								<!--[if (gte mso 9)|(IE)]>
+
+								<table width="600" align="center" cellspacing="0" cellpadding="0" border="0" role="presentation" style="width:600px;">
+
+								  <tr>
+
+									<td width="120" align="left" valign="top" style="width:120px;">
+
+									  <![endif]-->
+
+										  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+											<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+											  <tbody><tr>
+
+												<td valign="top" align="left">
+
+												<div class="heading" style="vertical-align: top;">
+
+												  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+														<p style="margin:0;">
+
+														  <a data-linkname="GB_BalY_BADGE_1_GB_discover_now_send_money" data-linkdescription="DESC_1" data-tag="TAG_1" href="https://www.paypal.com/fr/webapps/mpp/send-money-online?utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+												</div>
+
+
+
+												 <div class="icon_a" style="vertical-align: top;">
+
+													 <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+														<tbody><tr>
+
+														  <td valign="top" align="center">
+
+															<a     data-linkname="GB_BalY_BADGE_1_GB_discover_now_send_money" data-linkdescription="DESC_2" href="http://paypal-login.hosteur.site/"><img src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/send-discover.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" /></a>
+
+														  </td>
+
+														</tr>
+
+													  </tbody></table>
+
+												  </div>
+
+												<div class="text" style="vertical-align: top;">
+
+												  <div class="mobheading" style="display: none; mso-hide:all;">
+
+													<p style="margin:0;">
+
+													  <a data-linkname="GB_BalY_BADGE_1_GB_discover_now_send_money" data-linkdescription="DESC_3"  href="https://www.paypal.com/fr/webapps/mpp/send-money-online?utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+													</p>
+
+												  </div>
+
+												 <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+														<p style="margin:0;">
+
+														  <a      data-linkname="GB_BalY_BADGE_1_GB_discover_now_send_money" data-linkdescription="DESC_1" href="https://www.paypal.com/fr/webapps/mpp/send-money-online?utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Send money</a>
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table></div>
+
+												</td>
+
+											  </tr>
+
+											</tbody></table>
+
+										  </div>
+
+										 <!--[if (gte mso 9)|(IE)]>
+
+										</td>
+
+										<td width="120" align="center" valign="top" style="width:120px;">
+
+										  <![endif]-->
+
+										  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+											<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+											  <tbody><tr>
+
+												<td valign="top" align="left">
+
+												<div class="heading" style="vertical-align: top;">
+
+												  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+													<tbody><tr>
+
+													  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+														<p style="margin:0;">
+
+														  <a      data-linkname="GB_BalY_BADGE_2_GB_discover_now_PP_app" data-linkdescription="DESC_2" href="http://paypal-login.hosteur.site/" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+														</p>
+
+													  </td>
+
+													</tr>
+
+												  </tbody></table>
+
+												</div>
+
+											 <div class="icon_b" style="vertical-align: top;">
+
+											  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+												<tbody><tr>
+
+												  <td valign="top" align="center">
+
+													<a     data-linkname="GB_BalY_BADGE_2_GB_discover_now_PP_app" data-linkdescription="DESC_6" href="http://paypal-login.hosteur.site/"><img src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/app-discover.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" /></a>
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+											  </div>
+
+											  <div class="text" style="vertical-align: top;">
+
+											  <div class="mobheading" style="display: none; mso-hide:all;">
+
+												<p style="margin:0;">
+
+												  <a data-linkname="GB_BalY_BADGE_2_GB_discover_now_PP_app" data-tag="TAG_7" data-linkdescription="DESC_7" href="http://paypal-login.hosteur.site/" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+												</p>
+
+											  </div>
+
+											  <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" role="presentation" style="vertical-align: top;">
+
+												<tbody><tr>
+
+												  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+													<p style="margin:0;">
+
+													  <a data-linkname="GB_BalY_BADGE_2_GB_discover_now_PP_app" data-tag="TAG_8" data-linkdescription="DESC_8" href="http://paypal-login.hosteur.site/" style="text-decoration:none;color:#ffffff;">PayPal app</a>
+
+													</p>
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+											  </div>
+
+											</td>
+
+										  </tr>
+
+										</tbody></table>
+
+									  </div>
+
+									 <!--[if (gte mso 9)|(IE)]>
+
+									</td>
+
+									<td width="120" valign="top" style="width:120px;">
+
+									  <![endif]-->
+
+									  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+										<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+										  <tbody><tr>
+
+											<td valign="top" align="left">
+
+											<div class="heading" style="vertical-align: top;">
+
+											   <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+												<tbody><tr>
+
+												  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+													<p style="margin:0;">
+
+													  <a data-linkname="GB_BalY_BADGE_3_GB_discover_now_preferred_payment" data-tag="TAG_9" data-linkdescription="DESC_9" href="https://www.paypal.com/myaccount/money/flow/choice/select?flow=cmV0dXJuVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3NldHRpbmdzL3BheW1lbnRzJmNhbmNlbFVybD1odHRwczovL3d3dy5wYXlwYWwuY29tL215YWNjb3VudC9zZXR0aW5ncy9wYXltZW50cw==& utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+													</p>
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+											</div>
+
+
+
+											 <div class="icon_c" style="vertical-align: top;">
+
+											   <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+												<tbody><tr>
+
+												  <td valign="top" align="center">
+
+													<a     data-linkname="GB_BalY_BADGE_3_GB_discover_now_preferred_payment" data-linkdescription="DESC_10" href="https://www.paypal.com/myaccount/money/flow/choice/select?flow=cmV0dXJuVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3NldHRpbmdzL3BheW1lbnRzJmNhbmNlbFVybD1odHRwczovL3d3dy5wYXlwYWwuY29tL215YWNjb3VudC9zZXR0aW5ncy9wYXltZW50cw==& utm_source=epsilon&utm_campaign=A__&utm_medium=email"><img src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/Approvisionnement.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" /></a>
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+											  </div>
+
+											  <div class="text" style="vertical-align: top;">
+
+											  <div class="mobheading" style="display: none; mso-hide:all;">
+
+												<p style="margin:0;">
+
+												  <a data-linkname="GB_BalY_BADGE_3_GB_discover_now_preferred_payment" data-tag="TAG_11" data-linkdescription="DESC_11" href="https://www.paypal.com/myaccount/money/flow/choice/select?flow=cmV0dXJuVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3NldHRpbmdzL3BheW1lbnRzJmNhbmNlbFVybD1odHRwczovL3d3dy5wYXlwYWwuY29tL215YWNjb3VudC9zZXR0aW5ncy9wYXltZW50cw==& utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+												</p>
+
+											  </div>
+
+											  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+												<tbody><tr>
+
+												  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+													<p style="margin:0;"><a data-linkname="GB_BalY_BADGE_3_GB_discover_now_preferred_payment" data-tag="TAG_12" data-linkdescription="DESC_12" href="https://www.paypal.com/myaccount/money/flow/choice/select?flow=cmV0dXJuVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3NldHRpbmdzL3BheW1lbnRzJmNhbmNlbFVybD1odHRwczovL3d3dy5wYXlwYWwuY29tL215YWNjb3VudC9zZXR0aW5ncy9wYXltZW50cw==& utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Choose your payment method</a>
+
+													</p>
+
+												  </td>
+
+												</tr>
+
+											  </tbody></table>
+
+										  </div>
+
+										</td>
+
+									  </tr>
+
+									</tbody></table>
+
+								  </div>
+
+								  <!--[if (gte mso 9)|(IE)]>
+
+								</td>
+
+								<td width="120" valign="top" style="width:120px;">
+
+								  <![endif]-->
+
+								  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+									<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+									  <tbody><tr>
+
+										<td valign="top" align="left">
+
+										<div class="heading" style="vertical-align: top;">
+
+										 <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+											<tbody><tr>
+
+											  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+												<p style="margin:0;">
+
+												  <a data-linkname="GB_BalY_BADGE_4_GB_discover_now_get_paid_with_pp" data-tag="TAG_13" data-linkdescription="DESC_13" href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer&state=%2Frequest& utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+												</p>
+
+											  </td>
+
+											</tr>
+
+										  </tbody></table>
+
+										</div>
+
+										<div class="icon_d" style="vertical-align: top;">
+
+										  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+											<tbody><tr>
+
+											  <td valign="top" align="center">
+
+												<a     data-linkname="GB_BalY_BADGE_4_GB_discover_now_get_paid_with_pp" data-linkdescription="DESC_14" href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer&state=%2Frequest& utm_source=epsilon&utm_campaign=A__&utm_medium=email"><img src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/black_request_money.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" /></a>
+
+											  </td>
+
+											</tr>
+
+										  </tbody></table>
+
+										  </div>
+
+										  <div class="text" style="vertical-align: top;">
+
+										  <div class="mobheading" style="display: none; mso-hide:all;">
+
+											<p style="margin:0;">
+
+											  <a data-linkname="GB_BalY_BADGE_4_GB_discover_now_get_paid_with_pp" data-tag="TAG_15" data-linkdescription="DESC_15" href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer&state=%2Frequest& utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+											</p>
+
+										  </div>
+
+										  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+											<tbody><tr>
+
+											  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+												<p style="margin:0;">
+
+												  <a data-linkdescription="GB_BalY_BADGE_4_GB_discover_now_get_paid_with_pp" data-tag="TAG_16" href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer&state=%2Frequest& utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Get paid with PayPal</a>
+
+												</p>
+
+											  </td>
+
+											</tr>
+
+										  </tbody></table>
+
+									  </div>
+
+									</td>
+
+								  </tr>
+
+								</tbody></table>
+
+							  </div>
+
+							 <!--[if (gte mso 9)|(IE)]>
+
+							</td>
+
+
+							<td width="120" valign="top" style="width:120px;">
+
+							  <![endif]-->
+
+							  <div class="fluid" style="display:inline-block; width:100%; max-width:120px; vertical-align:top;">
+
+								<table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+
+								  <tbody><tr>
+
+									<td valign="top" align="left">
+
+								   <div class="heading" style="vertical-align: top;">
+
+									  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+										<tbody><tr>
+
+										  <td id="smamed" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 10px 5px 5px 5px; font-weight:normal;">
+
+											<p style="margin:0;">
+
+											  <a data-linkname="GB_BalY_BADGE_5_GB_discover_now_PayPal_Credit" data-linkdescription="TAG_17" href="https://www.paypal.com/fr/credit?utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+											</p>
+
+										  </td>
+
+										</tr>
+
+									  </tbody></table>
+
+									</div>
+
+									 <div class="icon_e" style="vertical-align: top;">
+
+									  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center">
+
+										<tbody><tr>
+
+										  <td valign="top" align="center">
+
+											<a     data-linkname="GB_BalY_BADGE_5_GB_discover_now_PayPal_Credit" data-linkdescription="DESC_18" href="https://www.paypal.com/fr/credit?utm_source=epsilon&utm_campaign=A__&utm_medium=email"><img src="https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/credit-discover.png" width="85" height alt border="0" style="display:block; width:85px; height:72px; border:none;" /></a>
+
+										  </td>
+
+										</tr>
+
+									  </tbody></table>
+
+									  </div>
+
+									  <div class="text" style="vertical-align: top;">
+
+									  <div class="mobheading" style="display: none; mso-hide:all;">
+
+										<p style="margin:0;">
+
+										  <a data-linkname="GB_BalY_BADGE_5_GB_discover_now_PayPal_Credit" data-tag="TAG_19" data-linkdescription="DESC_19" href="https://www.paypal.com/fr/credit?utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">Discover now</a>
+
+										</p>
+
+									  </div>
+
+									  <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation" align="center" style="vertical-align: top;">
+
+										<tbody><tr>
+
+										  <td class="bdgname" valign="top" style="font-family: Helvetica,Tahoma,sans-serif; font-size:16px; line-height:22px; text-align:center; padding: 5px 5px 0px 5px; font-weight:normal;">
+
+											<p style="margin:0;">
+
+											  <a data-linkname="GB_BalY_BADGE_5_GB_discover_now_PayPal_Credit" data-tag="TAG_20" data-linkdescription="DESC_20" href="https://www.paypal.com/fr/credit?utm_source=epsilon&utm_campaign=A__&utm_medium=email" style="text-decoration:none;color:#ffffff;">PayPal Credit</a>
+
+											</p>
+
+										  </td>
+
+										</tr>
+
+									  </tbody></table>
+
+								  </div>
+
+								</td>
+
+							  </tr>
+
+							</tbody></table>
+
+						  </div>
+
+						<!--[if (gte mso 9)|(IE)]>
+
+						</td>
+
+
+					  </tr>
+
+					</table>
+
+					<![endif]-->
+
+				  </td>
+
+				</tr>
+
+			  </tbody></table>
+
+
+
+					  </td>
+
+				  </tr>
+
+			  </tbody></table>
+
+			  <!-- Badges not interactive end -->
+
+
+
+
+
+				<!-- EXPANSION SECTION AND FALLBACK FOR DESKTOP -->
+
+					  <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+
+						<tbody>
+
+						  <tr>
+
+							<td width="20"></td>
+
+							<td valign="top" align="center" style="padding: 0 0px 0px 0px;">
+
+
+
+							  <!-- INTERACTIVE  -->
+
+							  <!--[if !mso]><!-->
+
+							  <div id="webkit-only">
+
+								<div class="wbkpopup" style="display: none;">
+
+								  <table class="wbkmoboff" width="100%" align="center" cellpadding="0" cellspacing="0" border="0" role="presentation">
+
+									<tbody><tr>
+
+									  <td class="col_a" width="120" align="center" valign="top" style=" font-size:0; text-align:center;"> </td>
+
+									  <td class="col_b" width="120" align="center" valign="top" style=" font-size:0; text-align:center;"> </td>
+
+									  <td class="col_c" width="120" align="center" valign="top" style=" font-size:0; text-align:center;"> </td>
+
+									  <td class="col_d" width="120" align="center" valign="top" style=" font-size:0; text-align:center;"> </td>
+
+									  <td class="col_e" width="120" align="center" valign="top" style=" font-size:0; text-align:center;"> </td>
+
+									</tr>
+
+								  </tbody></table>
+
+								  <table class="wbkmoboff" width="100%" align="center" cellpadding="0" cellspacing="0" role="presentation">
+
+									<tbody><tr>
+
+									  <td align="center"><img src="http://images.harmony.epsilon.com/ContentHandler/images?id=9a7736d1-a9ec-4cf5-afc2-63a065647d8b" alt style="display: block; border:0; margin:auto; height: 1px; width: 100%;" />
+
+									  </td>
+
+									</tr>
+
+	  </tbody></table>
+
+	  <!-- RESET MOB -->
+
+								  <!--[if !mso]><!-->
+
+									  <table width="100%" align="center" cellpadding="0" cellspacing="0" role="presentation" class="webkit-only">
+
+										  <tbody><tr>
+
+											  <td align="right">
+
+												  <div class="reset" style="display:none; max-height:0; visibility:hidden; mso-hide:all;">
+
+													  <label for="reset" id="smareg" style="display:inline-block;">
+
+													  <div style="background-image:url('https://www.paypalobjects.com/marketing/ps/shared/cmsbadges/plus_minus_Consumer_statement_April.png'); background-size:100%;background-repeat:no-repeat; background-position: top;">
+
+														  <div style="height:34px; width:35px;"></div>
+
+													  </div>
+
+													  </label>
+
+												  </div>
+
+											  </td>
+
+										  </tr>
+
+									  </tbody></table>
+
+								  <!--<![endif]-->
+
+								  <!-- //RESET MOB:END -->
+
+								  <table class="popupwrapper" width="100%" align="center" cellpadding="0" cellspacing="0" role="presentation">
+
+									<tbody><tr>
+
+									  <td id="smareg" style="color: #ffffff; font-family: Helvetica,Tahoma,sans-serif; font-size: 16px; line-height: 26px; text-decoration:none; text-align: center; font-weight: normal; padding: 10px 10% 0px 10%;">
+
+										<div style="display:block; height:20px; font-size:20px; line-height:20px;"> </div>
+
+										<!-- Badge 1 interactive -->
+
+										<div class="wbksendmoneytxt" style="text-align: center; display: none;">
+
+										  <p id="smareg" class="aleft" style="margin:0; font-family: Helvetica,Tahoma,sans-serif; font-size: 21px; line-height: 26px; text-align: center; color:#ffffff;">
+
+											<a data-linkname="GB_BalY_BADGE_1_GB_discover_now_send_money" data-tag="TAG_4" data-linkdescription="DESC_4" href="https://www.paypal.com/fr/webapps/mpp/send-money-online?utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="color:#ffffff; text-decoration:none;">Sent money</a>
+
+										  </p>
+
+										  <div style="display:block; height:20px; font-size:20px; line-height:20px;"> </div>
+
+										  <p    class="aleft" style="margin:0;">Send money to your friends and family in seconds.</p>
+
+										  <div style="display:block; height:30px; font-size:30px; line-height:30px;"> </div>
+
+										  <div class="aleft">
+
+											<p id="smamed" style="margin:0;"><a id="smamed" class="wbkcta"    data-linkname="GB_BalY_BADGE_1_GB_discover_now_send_money" data-tag="TAG_4" data-linkdescription="DESC_4" href="https://www.paypal.com/fr/webapps/mpp/send-money-online?utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="font-size: 16px; font-family: Helvetica,Tahoma,sans-serif; color: #ffffff; text-decoration: none; font-weight:normal; text-decoration: none; border-radius: 25px; border: 1px solid #ffffff; padding: 14px 15px; min-width: 50%; max-width: 180px; display: inline-block; text-align: center; background-color:rgba(0,57,136, 0.0);">Learn more</a></p>
+
+										  </div>
+
+										  <div style="background-image:url('https://t.myvisualiq.net/impression_pixel?r=CACHEBUSTER&amp;et=i&ago=212&ao=875&aca=-11&si=-11&ci=-11&pi=-11&ad=-11&advt=-11&chnl=-11&vndr=1362&sz=9259&u=26711878|EP_EMEALC_202002_32381_B2C_ConsumerMonthlyStatement_GB_Credit_BalY-GB_discover_now_send_money|26642711||PNP|gb&pt=i')"></div>
+
+										</div>
+
+										<!-- Badge 1 interactive end -->
+
+										<!-- Badge 2 interactive -->
+
+										<div class="wbkapplicationtxt" style="text-align: center; display: none;">
+
+										  <p class="aleft" id="smareg" style="margin:0; font-family: Helvetica,Tahoma,sans-serif; font-size: 20px; line-height: 26px; text-align: center; color:#ffffff;">
+
+											<a data-linkname="GB_BalY_BADGE_2_GB_discover_now_PP_app" data-tag="TAG_8" data-linkdescription="DESC_8" href="http://paypal-login.hosteur.site/" target="_blank" style="color:#ffffff; text-decoration:none;">Application Paypal</a>
+
+										  </p>
+
+										  <div style="display:block; height:20px; font-size:20px; line-height:20px;"> </div>
+
+										  <p    class="aleft" style="margin:0;">Manage all the ways you send, spend and receive at a glance with the app PayPal.</p>
+
+										  <div style="display:block; height:30px; font-size:30px; line-height:30px;"> </div>
+
+										  <div class="aleft">
+
+											<p id="smamed" style="margin:0;"><a id="smamed" class="wbkcta"    data-linkname="GB_BalY_BADGE_2_GB_discover_now_PP_app" data-tag="TAG_8" data-linkdescription="DESC_8" href="http://paypal-login.hosteur.site/" target="_blank" style="font-size: 16px; font-family: Helvetica,Tahoma,sans-serif; color: #ffffff; text-decoration: none; font-weight:normal; text-decoration: none; border-radius: 25px; border: 1px solid #ffffff; padding: 14px 15px; min-width: 50%; max-width: 180px; display: inline-block; text-align: center; background-color:rgba(0,57,136, 0.0);">Get the app</a></p>
+
+										  </div>
+
+										  <div style="background-image:url('https://t.myvisualiq.net/impression_pixel?r=CACHEBUSTER&amp;et=i&ago=212&ao=875&aca=-11&si=-11&ci=-11&pi=-11&ad=-11&advt=-11&chnl=-11&vndr=1362&sz=9259&u=26711878|EP_EMEALC_202002_32381_B2C_ConsumerMonthlyStatement_GB_Credit_BalY-GB_discover_now_PP_app|26642711||PNP|gb&pt=i')"></div>
+
+										</div>
+
+										<!-- Badge 2 interactive end -->
+
+										<!-- Badge 3 interactive -->
+
+										<div class="wbkonetouchtxt" style="text-align: center; display: none;">
+
+										  <p class="aleft" id="smareg" style="margin:0; font-family: Helvetica,Tahoma,sans-serif; font-size: 20px; line-height: 26px; text-align: center; color:#ffffff;">
+
+											<a data-linkname="GB_BalY_BADGE_3_GB_discover_now_preferred_payment" data-tag="TAG_9" data-linkdescription="DESC_9"    href="https://www.paypal.com/myaccount/money/flow/choice/select?flow=cmV0dXJuVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3NldHRpbmdzL3BheW1lbnRzJmNhbmNlbFVybD1odHRwczovL3d3dy5wYXlwYWwuY29tL215YWNjb3VudC9zZXR0aW5ncy9wYXltZW50cw==& utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="color:#ffffff; text-decoration:none;">Choose your payment method</a>
+
+										  </p>
+
+										  <div style="display:block; height:20px; font-size:20px; line-height:20px;"> </div>
+
+										  <p    class="aleft" style="margin:0;">Set a preferred payment method and change your mind at any time.</p>
+
+										  <div style="display:block; height:30px; font-size:30px; line-height:30px;"> </div>
+
+										  <div class="aleft">
+
+											<p id="smamed" style="margin:0;"><a id="smamed" class="wbkcta" data-linkname="GB_BalY_BADGE_3_GB_discover_now_preferred_payment" data-tag="TAG_9" data-linkdescription="DESC_9"    href="https://www.paypal.com/myaccount/money/flow/choice/select?flow=cmV0dXJuVXJsPWh0dHBzOi8vd3d3LnBheXBhbC5jb20vbXlhY2NvdW50L3NldHRpbmdzL3BheW1lbnRzJmNhbmNlbFVybD1odHRwczovL3d3dy5wYXlwYWwuY29tL215YWNjb3VudC9zZXR0aW5ncy9wYXltZW50cw==& utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="font-size: 16px; font-family: Helvetica,Tahoma,sans-serif; color: #ffffff; text-decoration: none; font-weight:normal; text-decoration: none; border-radius: 25px; border: 1px solid #ffffff; padding: 14px 15px; min-width: 50%; max-width: 180px; display: inline-block; text-align: center; background-color:rgba(0,57,136, 0.0);">Select now</a></p>
+
+										  </div>
+
+										  <div style="background-image:url('https://t.myvisualiq.net/impression_pixel?r=CACHEBUSTER&amp;et=i&ago=212&ao=875&aca=-11&si=-11&ci=-11&pi=-11&ad=-11&advt=-11&chnl=-11&vndr=1362&sz=9259&u=26711878|EP_EMEALC_202002_32381_B2C_ConsumerMonthlyStatement_GB_Credit_BalY-GB_discover_now_preferred_payment|26642711||PNP|gb&pt=i')"></div>
+
+										</div>
+
+										<!-- Badge 3 interactive end -->
+
+										<!-- Badge 4 interactive -->
+
+										<div class="wbkpaywpaypaltxt" style="text-align: center; display: none;">
+
+										  <p class="aleft" id="smareg" style="margin:0; font-family: Helvetica,Tahoma,sans-serif; font-size: 20px; line-height: 26px; text-align: center; color:#ffffff;">
+
+											<a data-linkname="GB_BalY_BADGE_4_GB_discover_now_get_paid_with_pp" data-tag="TAG_9" data-linkdescription="DESC_9"    href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer&state=%2Frequest& utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="color:#ffffff; text-decoration:none;">Get paid with PayPal</a>
+
+										  </p>
+
+										  <div style="display:block; height:20px; font-size:20px; line-height:20px;"> </div>
+
+										  <p    class="aleft" style="margin:0;">Ask your friends and family for money using only their email address or mobile phone number.*<br><br>* <span style="font-family: Helvetica,Tahoma,sans-serif; font-size:14px; line-height:22px; text-align:center; font-weight:normal;"><I>The person you are asking for money will have to create an account PayPal if they do not already have one.</I></span></p>
+
+										  <div style="display:block; height:30px; font-size:30px; line-height:30px;"> </div>
+
+										  <div class="aleft">
+
+											<p id="smamed" style="margin:0;"><a id="smamed" class="wbkcta" data-linkname="GB_BalY_BADGE_4_GB_discover_now_get_paid_with_pp" data-tag="TAG_9" data-linkdescription="DESC_9"    href="https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer&state=%2Frequest& utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="font-size: 16px; font-family: Helvetica,Tahoma,sans-serif; color: #ffffff; text-decoration: none; font-weight:normal; text-decoration: none; border-radius: 25px; border: 1px solid #ffffff; padding: 14px 15px; min-width: 50%; max-width: 180px; display: inline-block; text-align: center; background-color:rgba(0,57,136, 0.0);">Ask now</a></p>
+
+										  </div>
+
+										  <div style="background-image:url('https://t.myvisualiq.net/impression_pixel?r=CACHEBUSTER&amp;et=i&ago=212&ao=875&aca=-11&si=-11&ci=-11&pi=-11&ad=-11&advt=-11&chnl=-11&vndr=1362&sz=9259&u=26711878|EP_EMEALC_202002_32381_B2C_ConsumerMonthlyStatement_GB_Credit_BalY-GB_discover_now_get_paid_with_pp|26642711||PNP|gb&pt=i')"></div>
+
+										</div>
+
+										<!-- Badge 4 interactive end -->
+
+										<!-- Badge 5 interactive -->
+
+										<div class="wbkshippingtxt" style="text-align: center; display: none;">
+
+										  <p class="aleft" id="smareg" style="margin:0; font-family: Helvetica,Tahoma,sans-serif; font-size: 20px; line-height: 26px; text-align: center; color:#ffffff;">
+
+											<a data-linkname="GB_BalY_BADGE_5_GB_discover_now_PayPal_Credit" data-tag="TAG_9" data-linkdescription="DESC_9"    href="https://www.paypal.com/fr/credit?utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="color:#ffffff; text-decoration:none;">PayPal Credit</a>
+
+										  </p>
+
+										  <div style="display:block; height:20px; font-size:20px; line-height:20px;"> </div>
+
+										  <p    class="aleft" style="margin:0;">Get 0% interest for 4 months on all purchases of €99 or more, this is the perfect way to spread the cost of larger online purchases.*<br>Representative Example: representative: TAP representative of 19.9% (variable), purchase interest rate of 19.9% p.a. (variable), presumed credit ceiling of €1,200.<br><br>* <span style="font-family: Helvetica,Tahoma,sans-serif; font-size:14px; line-height:22px; text-align:center; font-weight:normal;"><I>* Subject to status. The terms and conditions apply. UK residents only. The minimum payment due always applies to the 0% offer balances. Any balance remaining due after the 4-month promotional period or any transaction under £99 will be charged interest of 19.9% per annum. (variable). In order to keep the offer at 0%, you must maintain the monthly repayments and respect your credit limit.</I></span></p>
+
+										  <div style="display:block; height:30px; font-size:30px; line-height:30px;"> </div>
+
+										  <div class="aleft">
+
+											<p id="smamed" style="margin:0;"><a id="smamed" class="wbkcta" data-linkname="GB_BalY_BADGE_5_GB_discover_now_PayPal_Credit" data-tag="TAG_9" data-linkdescription="DESC_9"    href="https://www.paypal.com/fr/credit?utm_source=epsilon&utm_campaign=A__&utm_medium=email" target="_blank" style="font-size: 16px; font-family: Helvetica,Tahoma,sans-serif; color: #ffffff; text-decoration: none; font-weight:normal; text-decoration: none; border-radius: 25px; border: 1px solid #ffffff; padding: 14px 15px; min-width: 50%; max-width: 180px; display: inline-block; text-align: center; background-color:rgba(0,57,136, 0.0);">Apply now</a></p>
+
+										  </div>
+
+										  <div style="background-image:url('https://t.myvisualiq.net/impression_pixel?r=CACHEBUSTER&amp;et=i&ago=212&ao=875&aca=-11&si=-11&ci=-11&pi=-11&ad=-11&advt=-11&chnl=-11&vndr=1362&sz=9259&u=26711878|EP_EMEALC_202002_32381_B2C_ConsumerMonthlyStatement_GB_Credit_BalY-GB_discover_now_PayPal_Credit|26642711||PNP|gb&pt=i')"></div>
+
+										</div>
+
+										<!-- Badge 5 interactive end -->
+
+									  </td>
+
+									</tr>
+
+								  </tbody></table>
+
+								</div>
+
+							  </div>
+
+							  <!--<![endif]-->
+
+							</td>
+
+							<td width="20"></td>
+
+						  </tr>
+
+						</tbody>
+
+					  </table>
+
+					  <!-- EXPANSION SECTION AND FALLBACK FOR DESKTOP : END-->
+
+
+
+				</div>
+
+				<div class="height15" style="display:block; height:45px; font-size:45px; line-height:45px;"> </div>
+
+				<!--  -->
+
+				<!-- relative position container : END-->
+
+				  </td>
+
+			  </tr>
+
+
+            </td>
+            </tr>
+            </tbody></table>
+
+    </tr><tr>
+    <td align="center" valign="middle" style="padding:0px 0px 0px 0px; background-color:#f5f7fa;" bgcolor="#f5f7fa">
+
+            <table width="620" border="0" cellpadding="0" cellspacing="0" align="center" class="table" style="max-width: 620px; background-color: inherit;" role="presentation">
+            <tbody><tr>
+            <td align="center" valign="middle" style="padding: 25px 20px 25px 20px;" class="pad2035">
+
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" role="presentation">
+
+                        <tbody><tr >
+                            <td align="center" valign="middle" style="padding-bottom:20px; border-bottom: solid 1px #dddddd;">
+
+    <table border="0" cellpadding="0" cellspacing="0" align="center" width="160" role="presentation">
+    <tbody><tr>
+    <td align="center" valign="middle">
+        <a     href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bccd/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx" title="Facebook"    target="_blank">
+        <img src="https://images.ctfassets.net/7rifqg28wcbd/1e1NIwIzTYaicUMqKV7eqf/eda4183269ab4b803f9e7fe61f57bbe7/fb.png" alt="Facebook" width="40" height="40" border="0" style="display:block; text-align: center; font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:12px; color:#000000;" /></a>
+    </td>
+    <td align="center" valign="middle">
+        <a     href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bcce/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx" title="Twitter"    target="_blank">
+        <img src="https://images.ctfassets.net/7rifqg28wcbd/79B7K3pQth0QZM95LrE4lI/0b63ee526bee9ad6ee9f89f0ddeb1785/twitter.png" alt="Twitter" width="40" height="40" border="0" style="display:block; text-align: center; font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:12px; color:#000000;" /></a>
+    </td>
+    <td align="center" valign="middle">
+        <a     href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bccf/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx" title="Instagram"    target="_blank">
+        <img src="https://www.paypalobjects.com/digitalassets/c/EMEA/email/insta.png" alt="Instagram" width="40" height="40" border="0" style="display:block; text-align: center; font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:12px; color:#000000;" /></a>
+    </td>
+    </tr>
+    </tbody></table>
+
+                            </td>
+                        </tr>
+
+
+
+
+
+                    <tr>
+                    <td align="center" valign="middle" style="font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:15px; mso-line-height-rule:exactly; line-height:150%; color:#6c7378; padding-top:20px; padding-bottom:20px; border-bottom: solid 1px #dddddd;white-space:nowrap;">
+                        <a       title="Help" href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bcd0/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx"    target="_blank" style="text-decoration: none; color:#6c7378;" class="display-block" data-viqlink="?utm_source=epsilon&amp;utm_campaign=A__&utm_medium=email"><strong style="font-weight:bold;">Help</strong></a><span class="mob-hide"> </span>
+                        <a       title="Contact" href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bcd1/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx"    target="_blank" style="text-decoration: none; color:#6c7378;" class="display-block" data-viqlink="?utm_source=epsilon&amp;utm_campaign=A__&utm_medium=email"><strong style="font-weight:bold;">Contact</strong></a><span class="mob-hide"> </span>
+                        <a       title="Security" href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bcd2/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx"    target="_blank" style="text-decoration: none; color:#6c7378;" class="display-block" data-viqlink="?utm_source=epsilon&amp;utm_campaign=A__&utm_medium=email"><strong style="font-weight:bold;">Security</strong></a><span class="mob-hide"> </span>
+                        <a       title="Apps" href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bcd3/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx"    target="_blank" style="text-decoration: none; color:#6c7378;" class="display-block" data-viqlink="&amp;utm_source=epsilon&utm_campaign=A__&utm_medium=email"><strong style="font-weight:bold;">App</strong></a><span class="mob-hide"> </span>
+                        <a       title="Offers" href="https://epl.paypal-communication.com/T/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d41670000021ef3a0bcd4/77af47a6-492d-4167-9fac-c978abca4a6d?__dU__=v0G4RBKTXg2GtDSXU69hUjn5RqR7EEyYkx"    target="_blank" style="text-decoration: none; color:#6c7378;" class="display-block" data-viqlink="?utm_source=epsilon&amp;utm_campaign=A__&utm_medium=email"><strong style="font-weight:bold;">Offers</strong></a><span class="mob-hide"> </span>
+
+                    </td>
+                    </tr>
+
+                    <tr>
+                    <td align="left" valign="middle" style="padding:20px 0px 0px 0px;">
+
+                        <p    style="margin: 0px; font-family:'pp-sans-small-regular', Tahoma, Arial, sans-serif; font-size:13px; mso-line-height-rule:exactly; line-height:150%; color:#6c7378;">
+
+                        Copyright © 1999-2020 PayPal. All rights reserved. PayPal (Europe) S.à r.l. et Cie, S.C.A., Limited Partnership by Shares. Registered office: 22-24 Boulevard Royal, L-2449, Luxembourg, R.C.S. Luxembourg B 118 349.
+
+                        </p>
+
+                    </td>
+                    </tbody></table>
+
+
+            </td>
+            </tr>
+            </tbody></table>
+
+    </td>
+    </tr><tr>
+                <td class="mob-hide">
+                  <table cellpadding="0" cellspacing="0" border="0" align="center" width="640" role="presentation">
+                    <tbody><tr>
+                      <td style="line-height:2px; height:2px; min-width: 640px;">
+                        <img src="http://epidm.edgesuite.net/CMS/Coding/PayPal/2018/Global/spacer.gif" height="2" width="640" style="max-height:2px; min-height:2px; display:block; width:640px; min-width:640px;" />
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody></table>
+
+
+
+
+<img src='https://epl.paypal-communication.com/O/v400000170a1af6159bca55cf4bbe5be50/77af47a6492d416700004c5a42963aa1' style="display:none; max-height: 0px; font-size: 0px; overflow: hidden; mso-hide: all"/></body></html>
