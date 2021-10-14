@@ -9,11 +9,11 @@ pip install smtplib
 
 Vous pouvez également executer le requirement.bat si vous êtes sur windows pour installer les prérequis.
 
-##Si vous utilisez des adresse gmail:
+## Si vous utilisez des adresse gmail:
 Il est impératif d'activer l'option "Accès moins sécurisé des applications" à votre compte gmail si vous voulez envoyer des emails en masse.
 Il est aussi déconseillé de dépasser l'envoie de 500 email/jours pour peine de ne plus avoir de compte gmail. 
 
-##Comment l'utiliser?
+## Comment l'utiliser?
 
 1. Choisissez votre serveur smtp(si vous avez une adresse gmail par exemple, le serveur seras: smtp.gmail.com).
 2. Ajoutez le port utilisé par le serveur (dans l'exemple de gmail, c'est le port n° 587).
