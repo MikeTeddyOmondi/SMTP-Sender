@@ -24,7 +24,7 @@ def center(var:str, space:int=None):
 
 class Console:
     def banner(self):
-        os.system('cls && title [ONYX email v1] - Made By Esio#4854' if os.name == "nt" else 'clear')
+        os.system('cls && title [ONYX email bêta version] - Made By Esio#4854' if os.name == "nt" else 'clear')
         menu=center("""
               
 
@@ -36,7 +36,7 @@ class Console:
 ██║   ██║██║╚██╗██║  ╚██╔╝   ██╔██╗     ╚════██║██║╚██╔╝██║   ██║   ██╔═══╝     ╚════██║██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
 ╚██████╔╝██║ ╚████║   ██║   ██╔╝ ██╗    ███████║██║ ╚═╝ ██║   ██║   ██║         ███████║███████╗██║ ╚████║██████╔╝███████╗██║  ██║
  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝     ╚═╝   ╚═╝   ╚═╝         ╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-                                                                                                                                  
+                                                                                                                      version bêta                                  
 
 
 
